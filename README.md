@@ -48,5 +48,3 @@ To convert from pixel-based measurements to relevant, absolute units; we utilize
 Once all instances of contact are labeled in the video, navigate through the video until you find a frame clearly showing a known physiological reference point that appears in plane with the contact delivery. Clicking the "Measure" button opens a new window with an expanded view of the current frame. In this window, draw a straight line across the physiolocial reference measurement by selecting the start point (left click) and end point (right click). Hit any key and input the known measurement in millimeters.
 #### Step 5. **Automated analysis**
 Once all frames are labeled and you have input a known measurement conversion, click the "Analyze" button. This will produce six output files in a folder matching the name of the video - one for each touch type as well as an "all.csv" containing every labeled interaction. See "Analysis output files" above for more details. 
-
-### Contact definitions
